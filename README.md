@@ -1,22 +1,50 @@
-                                                    #🌐Skyviorment
-Skyviorment is a modern web-based application that integrates AI-powered interaction, messaging functionality, and an interactive map system. It provides users with a smart and user-friendly platform to communicate and explore location-based features.
+# 🌐 Skyviorment
 
-##📌 Project Overview
+Skyviorment is a modern web-based application that integrates AI-powered interaction, messaging functionality, and an interactive map system.
 
-Skyviorment is designed to combine intelligent AI responses, real-time messaging, and map integration into one seamless web experience.
+---
 
-##🌐 Live: https://skyviorment.netlify.app/
+## 📌 Project Overview
 
-##🚀 Features
+Skyviorment combines intelligent AI responses, real-time messaging, and map integration into one seamless web experience.
 
-🤖 AI Integration – Users can interact with AI for smart responses 💬 Messaging System – Users can send messages easily 🗺️ Interactive Map – Location-based visualization and map support 📱 Responsive Design – Works smoothly on desktop and mobile ⚡ Fast Performance – Optimized frontend structure
+---
 
-##🛠️ Technologies Used
+## 🌍 Live
 
-HTML
-CSS
-JavaScript
-React.js
-##⭐ Support
+https://skyviorment.netlify.app/
 
-If you find this repository helpful, consider giving it a star ⭐ Happy Coding 🚀
+---
+
+## 🚀 Features
+
+- 🤖 AI Integration – Users can interact with AI  
+- 💬 Messaging System – Users can send messages easily  
+- 🗺️ Interactive Map – Location-based visualization  
+- 📱 Responsive Design – Works smoothly on desktop and mobile  
+- ⚡ Fast Performance – Optimized frontend structure  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+
+---
+
+## 📝 Notes
+
+- All solutions are written by me  
+- Code is focused on correctness and simplicity  
+- Some features may have multiple valid implementations  
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a star ⭐  
+
+Happy Coding 🚀
