@@ -10,12 +10,6 @@ Skyviorment combines intelligent AI responses, real-time messaging, and map inte
 
 ---
 
-## 🌍 Live
-
-https://skyviorment.netlify.app/
-
----
-
 ## 🚀 Features
 
 - 🤖 AI Integration – Users can interact with AI  
