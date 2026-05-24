@@ -7,6 +7,8 @@ Skyviorment is a modern web-based application that integrates AI-powered interac
 ## 🌐 Live demo 
 https://skyviorment.netlify.app/
 
+---
+
 ## 📌 Project Overview
 
 Skyviorment combines intelligent AI responses, real-time messaging, and map integration into one seamless web experience.
